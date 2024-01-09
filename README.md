@@ -14,6 +14,7 @@ Key Skills:
 - Other: Agile Methodology, Data structures, Algorithms, Software development lifecycle, Latex
 
 Linkedin: https://www.linkedin.com/in/sadiatabassum/
+
 Blog: https://medium.com/@sadia_cs
 
 Currently seeking a new role in Data Science/Machine Learning.
