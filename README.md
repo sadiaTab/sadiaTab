@@ -13,11 +13,11 @@ Key Skills:
 - Tools/Platforms: Git, Github, SPSS, Unix, Linux, bash, shell scripting, Jira, AWS, Jupyter 
 - Other: Agile Methodology, Data structures, Algorithms, Software development lifecycle, Latex
 
-Linkedin: https://www.linkedin.com/in/sadiatabassum/
+#Linkedin: https://www.linkedin.com/in/sadiatabassum/
 
-Blog: https://medium.com/@sadia_cs
+#Blog: https://medium.com/@sadia_cs
 
-Currently seeking a new role in Data Science/Machine Learning.
+#Currently seeking a new role in Data Science/Machine Learning.
 
 <!--
 - 🔭 I’m currently working on ...
