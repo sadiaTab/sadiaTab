@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Data Science and Machine Learning Specialist with a PhD in Computer Science.
+Machine Learning Specialist with a PhD in Computer Science.
 
 Key Skills: 
 - Programming: Python, Java, Matlab, SQL, Postgresql
